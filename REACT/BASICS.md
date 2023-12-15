@@ -19,5 +19,4 @@
 
 -> Virtual DOM is an abstraction of actual DOM, where components are the nodes.We can programatically modify it. These are internally handeled by React and in return, updated by DOM.
 
-**Different frameworks uses different ways like Dirty Checking, Data Binding to update the DOM tree, as its expensive in time to update the DOM tree again and again, if changes are made frequently. 
-**
+**Different frameworks uses different ways like Dirty Checking, Data Binding to update the DOM tree, as its expensive in time to update the DOM tree again and again, if changes are made frequently.**
